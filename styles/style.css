@@ -4,6 +4,22 @@
     font-family: 'Roboto', sans-serif;
 }
 
+body {
+    color: white;
+}
+
+.background {
+    background-position: center;
+    background-size: cover;
+    background-image: url("../resources/penandpaper.jpg");
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+.background-color {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
 .container {
     display: block;
     height: 100vh;
